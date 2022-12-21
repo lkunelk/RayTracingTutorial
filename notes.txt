@@ -1,0 +1,5 @@
+Video1:
+- very fast paced in terms of amount of code that needs to be written
+- but it's good, the Walnut library is interesting
+- a bunch of boilerplate, I'm not going to focus too much on it
+- I have something displayed on screen :) that's all that matters
